@@ -31,7 +31,9 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@jupyterlab/application": "^1.0.0"
+    "@downie4/jupyterlab-tutorial": "^0.1.0",
+    "@jupyterlab/application": "^1.0.0",
+    "@jupyterlab/mainmenu": "^1.0.1"
   },
   "devDependencies": {
     "rimraf": "^2.6.1",
