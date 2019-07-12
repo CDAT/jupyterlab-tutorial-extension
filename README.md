@@ -10,7 +10,7 @@ An extension for JupyterLab which provides an entry point, functions and default
 ## Installation
 
 ```bash
-jupyter labextension install '@downie4/jupyterlab-tutorial-extension'
+jupyter labextension install @downie4/jupyterlab-tutorial-extension
 ```
 
 ## Development
