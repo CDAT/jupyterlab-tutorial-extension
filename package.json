@@ -1,6 +1,6 @@
 {
   "name": "@downie4/jupyterlab-tutorial-extension",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "An extension for JupyterLab which provides an entry point, functions and defaults for the @cdat/jupyterlabb-tutorial package.",
   "keywords": [
     "jupyter",
@@ -31,7 +31,7 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@downie4/jupyterlab-tutorial": "^0.7.0",
+    "@downie4/jupyterlab-tutorial": "^0.8.0",
     "@jupyterlab/application": "^1.0.0",
     "@jupyterlab/mainmenu": "^1.0.1"
   },
