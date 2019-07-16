@@ -1,15 +1,15 @@
 {
-  "name": "@downie4/jupyterlab-tutorial-extension",
-  "version": "0.8.0",
-  "description": "An extension for JupyterLab which provides an entry point, functions and defaults for the @cdat/jupyterlabb-tutorial package.",
+  "name": "jupyterlab-tutorial-extension",
+  "version": "1.0.1",
+  "description": "An extension for JupyterLab which provides an entry point, functions and defaults for the @cdat/jupyterlab-tutorial package.",
   "keywords": [
     "jupyter",
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "https://github.com/downiec/jupyterlab-tutorial-extension.git",
+  "homepage": "https://github.com/cdat/jupyterlab-tutorial-extension.git",
   "bugs": {
-    "url": "https://github.com/downiec/jupyterlab-tutorial-extension.git/issues"
+    "url": "https://github.com/cdat/jupyterlab-tutorial-extension.git/issues"
   },
   "license": "BSD-3-Clause",
   "author": "Carlos Downie",
@@ -22,7 +22,7 @@
   "style": "style/index.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/downiec/jupyterlab-tutorial-extension.git.git"
+    "url": "https://github.com/CDAT/jupyterlab-tutorial-extension.git"
   },
   "scripts": {
     "build": "tsc",
@@ -31,9 +31,9 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@downie4/jupyterlab-tutorial": "^0.8.0",
     "@jupyterlab/application": "^1.0.0",
-    "@jupyterlab/mainmenu": "^1.0.1"
+    "@jupyterlab/mainmenu": "^1.0.1",
+    "jupyterlab-tutorial": "^1.0.1"
   },
   "devDependencies": {
     "rimraf": "^2.6.1",

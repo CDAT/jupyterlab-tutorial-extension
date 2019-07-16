@@ -8,15 +8,15 @@ import { MainMenu, IMainMenu } from "@jupyterlab/mainmenu";
 import {
   ITutorialManager,
   TutorialManager
-} from "@downie4/jupyterlab-tutorial";
+} from "jupyterlab-tutorial";
 
 /**
- * Initialization data for the jupyterlab_tutorial_manager extension.
+ * Initialization data for the jupyterlab-tutorial extension.
  */
 const extension: JupyterFrontEndPlugin<ITutorialManager> = {
   activate,
   autoStart: true,
-  id: "@cdat/jupyterlab-tutorial-manager",
+  id: "@cdat/jupyterlab-tutorial-extension:plugin",
   requires: [IMainMenu],
   provides: ITutorialManager
 };
