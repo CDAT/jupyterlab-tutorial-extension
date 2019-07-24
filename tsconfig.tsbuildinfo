@@ -778,32 +778,32 @@
         "signature": "bc0eabe5a2aa6ffb285060b5dbaa82f6ef030c55451926988bf33467ae3b714b"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts": {
-        "version": "160a96fc757e092a26b918b11a0b61bf82795ceb11932b53944f38265993bd33",
-        "signature": "160a96fc757e092a26b918b11a0b61bf82795ceb11932b53944f38265993bd33"
+        "version": "51590be32185578c17c982a099dfe55002154b6908a94b03d4f4735d29d04038",
+        "signature": "51590be32185578c17c982a099dfe55002154b6908a94b03d4f4735d29d04038"
       },
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts": {
-        "version": "aad0ea7b0a66262d94ee507eb934f70affc7cda5631f05587a45c401f20d8b5f",
-        "signature": "aad0ea7b0a66262d94ee507eb934f70affc7cda5631f05587a45c401f20d8b5f"
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts": {
+        "version": "9fba4da484661c4872f39325a81cb3209430444497eb66c21e576a2dea8da893",
+        "signature": "9fba4da484661c4872f39325a81cb3209430444497eb66c21e576a2dea8da893"
       },
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts": {
-        "version": "4f51af79619acbd0b98758c17070cc3e1adee02e917ed2bd37b6db6cfd4ee599",
-        "signature": "4f51af79619acbd0b98758c17070cc3e1adee02e917ed2bd37b6db6cfd4ee599"
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts": {
+        "version": "03d867be71fb2eabce1827704c88d3c92066f359ac06a5ed56b1e5eb1af52980",
+        "signature": "03d867be71fb2eabce1827704c88d3c92066f359ac06a5ed56b1e5eb1af52980"
       },
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorial.d.ts": {
-        "version": "e34004318b6a1f5c9e8eb02846c66143274f5a762af45a55a784952409e6e158",
-        "signature": "e34004318b6a1f5c9e8eb02846c66143274f5a762af45a55a784952409e6e158"
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorial.d.ts": {
+        "version": "0f0209c943da464d28b845ee1e7c4f17c13324589c69d02448aebe6e2e193c2e",
+        "signature": "0f0209c943da464d28b845ee1e7c4f17c13324589c69d02448aebe6e2e193c2e"
       },
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorialmanager.d.ts": {
-        "version": "49b02e0453e004ae874c211ecbe27de02df162201ec5fa34a07df0c366901833",
-        "signature": "49b02e0453e004ae874c211ecbe27de02df162201ec5fa34a07df0c366901833"
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorialmanager.d.ts": {
+        "version": "32df4d4dbc089319f7a2752d826a1dc726a5ecf2346b4943d6e690ece32e9c28",
+        "signature": "32df4d4dbc089319f7a2752d826a1dc726a5ecf2346b4943d6e690ece32e9c28"
       },
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/index.d.ts": {
-        "version": "b42bf65aa7619e076c29b3a392da8c65466a32c581f5c6cdd448f20509a0394a",
-        "signature": "b42bf65aa7619e076c29b3a392da8c65466a32c581f5c6cdd448f20509a0394a"
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/index.d.ts": {
+        "version": "2d676229fa7e9f7ab183ef9590655643909cc2b29935b6355eabdda7d6c40726",
+        "signature": "2d676229fa7e9f7ab183ef9590655643909cc2b29935b6355eabdda7d6c40726"
       },
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/src/index.ts": {
-        "version": "99f59a4808f86e3e6a1b93c7e57b8876f0dfd6edaaaeafaeb01d885f5b25ad7b",
-        "signature": "b9e7ba499390ec98b21d47bd04c9083b35e2c6a8542248416a72f3cce55c9109"
+        "version": "9cc9fc92efd9af41d2e835e710fc8bc20f716ab294f8c56ae121cc7b9119f485",
+        "signature": "bdbdad47e7c45f50024f3bf88d9c7e8f871546470a0501618e54f5873f71b149"
       }
     },
     "options": {
@@ -1714,40 +1714,42 @@
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@types/react/index.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts": [
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts": [
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/coreutils/lib/index.d.ts"
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorial.d.ts": [
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorial.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts"
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorialmanager.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorialmanager.d.ts": [
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorialmanager.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/mainmenu/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/application/lib/index.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts"
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorial.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/index.d.ts": [
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorial.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorialmanager.d.ts"
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/index.d.ts": [
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorialmanager.d.ts"
       ],
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/src/index.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/application/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/mainmenu/lib/index.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/index.d.ts"
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/index.d.ts"
       ]
     },
     "exportedModulesMap": {
@@ -1759,36 +1761,38 @@
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/coreutils/lib/token.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/coreutils/lib/uuid.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts": [
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/coreutils/lib/index.d.ts"
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/index.d.ts": [
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorial.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorialmanager.d.ts"
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/index.d.ts": [
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorialmanager.d.ts"
       ],
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/src/index.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/application/lib/index.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/index.d.ts"
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/index.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorialmanager.d.ts": [
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorialmanager.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/mainmenu/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/application/lib/index.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts"
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorial.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorial.d.ts": [
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorial.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/signaling/lib/index.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts",
-        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts"
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorialmanager.d.ts"
       ],
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/mainmenu/lib/tokens.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@phosphor/coreutils/lib/index.d.ts",
@@ -2667,7 +2671,7 @@
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@types/react/index.d.ts"
       ],
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts": [
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts": [
         "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts"
       ]
     },
@@ -2867,11 +2871,11 @@
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/mainmenu/lib/mainmenu.d.ts",
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@jupyterlab/mainmenu/lib/index.d.ts",
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/react-joyride/types/index.d.ts",
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/constants.d.ts",
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tokens.d.ts",
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorial.d.ts",
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/tutorialmanager.d.ts",
-      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/@downie4/jupyterlab-tutorial/lib/index.d.ts",
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/constants.d.ts",
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tokens.d.ts",
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorial.d.ts",
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/tutorialmanager.d.ts",
+      "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/node_modules/jupyterlab-tutorial/lib/index.d.ts",
       "/users/downie4/desktop/cdat_devel/jupyter_devel/jupyterlab-tutorial-extension/src/index.ts"
     ]
   },
