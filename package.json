@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-tutorial-extension",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "An extension for JupyterLab which provides an entry point, functions and defaults for the @cdat/jupyterlab-tutorial package.",
   "keywords": [
     "jupyter",
@@ -31,9 +31,9 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@jupyterlab/application": "^2.1.0",
-    "@jupyterlab/mainmenu": "^2.1.0",
-    "jupyterlab-tutorial": "^1.0.5",
+    "@jupyterlab/application": "^2.2.5",
+    "@jupyterlab/mainmenu": "^2.2.3",
+    "jupyterlab-tutorial": "^1.0.6",
     "react": "~16.9.0",
     "react-dom": "~16.9.0"
   },
